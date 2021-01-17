@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**keane3pereira/keane3pereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! `(͡o‿O͡)`
 
-Here are some ideas to get you started:
+<img src="https://drive.google.com/file/d/WuBlowIqwl4nIlH9VUEOz2DWNI54Yk_c/view?usp=sharing" width="190px">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr><br>
+
+![Keane's Github Stats](https://github-readme-stats.vercel.app/api?username=keane3pereira&show_icons=true&title_color=EF767A&icon_color=49BEAA&text_color=f8f8f8&bg_color=151515)
+
+
+<a href="https://www.linkedin.com/in/keane-pereira-3947ab174/">
+    <img align="left" alt="Keane Pereira | Linkedin" width="33px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+ </a>
+<a href="mailto:keane3pereira@gmail.com">
+    <img align="left" alt="Keane Pereira | Gmail" width="33px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+</a>
