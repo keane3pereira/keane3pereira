@@ -2,7 +2,7 @@
 
 Hi! `(͡o‿O͡)`
 
-<img src="https://drive.google.com/uc?export=download&id=WuBlowIqwl4nIlH9VUEOz2DWNI54Yk_c" width="190px">
+<img src="res\17.gif" width="190px">
 
 <hr><br>
 
