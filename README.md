@@ -1,4 +1,4 @@
-Hi! `(͡o‿O͡)`
+Hi!
 
 <img src="res\17.gif" width="190px">
 
