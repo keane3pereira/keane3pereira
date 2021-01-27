@@ -8,9 +8,6 @@ Hi!
 
 <hr><br>
 
-<a href="https://www.linkedin.com/in/keane-pereira-3947ab174/">
-    <img align="left" alt="Keane Pereira | Linkedin" width="33px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
- </a>
 <a href="mailto:keane3pereira@gmail.com">
     <img align="left" alt="Keane Pereira | Gmail" width="33px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
 </a>
