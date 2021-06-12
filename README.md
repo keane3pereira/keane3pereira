@@ -1,6 +1,6 @@
 Hi! I'm Keane Pereira.
 
-Besides being Computer Science graduate, I waste my time creating art.
+Besides being a graduate in Computer Science, I waste my time creating art.
 
 <img src="res\17.gif" width="30%">
 
@@ -14,4 +14,3 @@ Searching for ways to improve myself, and the world around me... :)
 <hr>
 
 - Email: keane3pereira@gmail.com
-- LinkedIn: https://www.linkedin.com/in/keane-pereira-3947ab174/
